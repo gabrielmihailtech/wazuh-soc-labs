@@ -1,4 +1,4 @@
-Wazuh Lab 05 - Authentication Monitoring
+---Authentication Monitoring---
 
 ---
 Overview
