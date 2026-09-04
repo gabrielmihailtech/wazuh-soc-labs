@@ -1,4 +1,4 @@
-Wazuh Lab 04 - File Integrity Monitoring (FIM)
+ ---File Integrity Monitoring (FIM)---
 
 ---
 Overview
