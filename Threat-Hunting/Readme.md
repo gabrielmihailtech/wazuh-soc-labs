@@ -1,8 +1,4 @@
-Este un singur raport.
-
-Threat Hunting a fost o activitate introductivă, nu 10 investigații separate. Pentru GitHub arată mai bine un raport care explică modulul și primele evenimente analizate.
-
-Wazuh Lab 02 - Threat Hunting Basics
+---Threat Hunting Basics---
 
 ---
 Overview
