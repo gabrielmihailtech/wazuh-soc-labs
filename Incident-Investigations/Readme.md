@@ -193,6 +193,11 @@ Authorized and Expected Activity
 
 No suspicious indicators were identified.
 
+<img width="953" height="906" alt="image" src="https://github.com/user-attachments/assets/80c79188-f3da-4a4b-adfd-267c4b56e073" />
+<img width="958" height="905" alt="image" src="https://github.com/user-attachments/assets/36c4e14e-2bf4-4b14-9b59-ec7ca05a9ca0" />
+<img width="946" height="908" alt="image" src="https://github.com/user-attachments/assets/ea8daa47-f289-41b4-83c0-b8e25f0fbf34" />
+
+
 ---
 Finding 3 - Privileged Logon
 Event Information
@@ -256,6 +261,10 @@ Expected Administrative Activity
 
 The privileges were assigned to the authenticated local user during testing.
 
+<img width="957" height="847" alt="image" src="https://github.com/user-attachments/assets/a95f8b47-e3e5-4d4a-bf60-5152ed957b57" />
+<img width="952" height="901" alt="image" src="https://github.com/user-attachments/assets/4bf9f9d1-ed3d-4ff0-9b41-5dd49441dda4" />
+
+
 ---
 Finding 4 - Registry Modification Activity
 Event Information
@@ -299,6 +308,10 @@ Evade detection
 Maintain access
 
 No malicious behavior was identified during this investigation.
+
+<img width="947" height="908" alt="image" src="https://github.com/user-attachments/assets/7af4a43e-cdaa-46da-a35c-867f1584f32e" />
+<img width="953" height="903" alt="image" src="https://github.com/user-attachments/assets/c518e0bb-9e5e-49c4-b150-ef4af9e0b432" />
+
 
 ---
 MITRE ATT&CK Analysis
