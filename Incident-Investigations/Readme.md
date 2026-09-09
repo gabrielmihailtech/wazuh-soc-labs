@@ -124,6 +124,10 @@ Benign Activity
 
 No indicators of brute-force activity or unauthorized access were identified.
 
+<img width="962" height="894" alt="image" src="https://github.com/user-attachments/assets/78c8174f-4260-4f40-b98c-9fce05678de3" />
+<img width="954" height="901" alt="image" src="https://github.com/user-attachments/assets/62a065a5-d971-4c05-90a7-7b817fc24941" />
+<img width="950" height="894" alt="image" src="https://github.com/user-attachments/assets/5a882ca5-84ce-4c24-b10d-3875dda09493" />
+
 ---
 Finding 2 - Successful Authentication
 Event Information
@@ -369,4 +373,4 @@ Incident Investigation
 Timeline Reconstruction
 SOC Operations Monitoring
 
-<img width="962" height="894" alt="image" src="https://github.com/user-attachments/assets/78c8174f-4260-4f40-b98c-9fce05678de3" />
+
